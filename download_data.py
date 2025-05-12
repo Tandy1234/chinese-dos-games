@@ -15,7 +15,7 @@ BUF_SIZE = 65536
 THREAD_SIZE = 10
 
 # read game infos from games.json
-with open(os.path.join(root, 'games.json'), encoding='utf8') as f:
+with open(os.path.join(root, 'games_small_list.json'), encoding='utf8') as f:
     game_infos = json.load(f)
 
 

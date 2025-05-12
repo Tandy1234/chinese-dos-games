@@ -1,0 +1,14 @@
+{
+    "games": {
+        "三国英杰传": {
+            "identifier": "三国英杰传",
+            "name": {
+              "zh-Hans": "三国英杰传"
+            },
+            "executable": "reko3",
+            "type": "SPG",
+            "sha256": "965a11271a49fa7adc201ae793ba2cd76dd474b79477f3fa46a5caddae4f7f95",
+            "filesize": 3461749
+          }
+    }
+}
