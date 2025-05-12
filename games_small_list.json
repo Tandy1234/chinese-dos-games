@@ -21,6 +21,19 @@
       "sha256": "ef209d15734a9e2e533d9a73f2550b3524be5c4cfd5b0ed68c82df6638784adb",
       "filesize": 20272189
       },
+      "三国志英杰传": {
+        "identifier": "三国志英杰传",
+        "name": {
+          "zh-Hans": "三国志英杰传",
+          "zh-Hant": "三國志英傑傳",
+          "en": "Romance of the Three Kingdoms Heroic Legend"
+        },
+        "releaseYear": 1995,
+        "executable": "REKO3.COM",
+        "coverFilename": "cover.jpg",
+        "sha256": "07bad92d786dbcd90bf27eed6e8473e09374608e21767c68d11cf293b3982999",
+        "filesize": 3461749
+      },
       "三国英杰传": {
         "identifier": "三国英杰传",
         "name": {
